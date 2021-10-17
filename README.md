@@ -1,9 +1,6 @@
 
-<div align="left">
+<div align="center">
   <img border-radius: 15px src="Meenutty-407x400.png" width="200" height="200"/>
-  
-
-
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
