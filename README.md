@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="Meenutty-407x400.png" width="200" height="200"/>
     <p align="center">
-<a href="#"><img title="Meenutty"src="https://img.shields.io/badge/Ammukutty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Meenutty"src="https://img.shields.io/badge/Meenutty-green?colorA=%23ff0000&colorB=%35765e40&style=for-the-badge"></a>
 </p>
     </div>
 <br>
