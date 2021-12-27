@@ -14,3 +14,12 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devil-ser/Meenutty.git)
      </div>
 <br>
+
+
+# `BETA VERSION` (SOME FUNCTIONS MAY NOT  WORKED)
+
+<div align="center">
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devil-ser/Meenutty2.git)
+     </div>
+<br>
